@@ -1,5 +1,9 @@
 <header>
 
+# Finish proof
+<img width="1910" height="1075" alt="image" src="https://github.com/user-attachments/assets/78dc934d-ae4c-4a95-bd4e-d5b0ecf7259f" />
+
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
